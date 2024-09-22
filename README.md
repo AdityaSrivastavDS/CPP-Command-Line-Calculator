@@ -4,8 +4,8 @@ This is an extremely simple calculator I made while learning C++.
 
 Download the repo, compile and run it:
 ```
-$git clone https://github.com/christopher-siewert/cpp-calculator.git
-$cd cpp-calculator
+$git clone https://github.com/AdityaSrivastavDS/CPP-Command-Line-Calculator
+$cd CPP-Command-Line-Calculator
 $make
 ```
 
